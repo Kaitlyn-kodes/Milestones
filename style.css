@@ -17,3 +17,9 @@ body{
 #special{
     background-color: darkseagreen;
 }
+.table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
