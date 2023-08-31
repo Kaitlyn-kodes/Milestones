@@ -1,0 +1,19 @@
+h2{
+    font-family:fantasy;text-align: center;
+}
+body{
+    background-color: cadetblue;
+}
+.img{
+    border:dotted;
+    width: 400px;height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.color{
+    background-color:bisque;
+}
+#special{
+    background-color: darkseagreen;
+}
